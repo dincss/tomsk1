@@ -230,7 +230,9 @@ body {
 	margin: 1px 0 2px;
 	background: #fff url(../images/fbutton.png) repeat-x 0 100%;
 }
-
+.user-block button:hover {
+ background-position: 0 5px;
+}
 .main-block {
 	display: inline-block;
 	width: 75%;
